@@ -54,7 +54,7 @@ def test_delete_users(api_client):
     print(response.json())
     assert response.status_code == 200
 
-
+# hi akil how are you
 
 # def test_create_users(api_client,load_user_data):
 #     # user_data = {
